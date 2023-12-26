@@ -17,31 +17,28 @@ struct DragGestureBootcamp2: View {
             Color(Color.green).ignoresSafeArea()
             
             BottomView()
-                .offset(y: OffsetY) // 底部初始位置
-                .offset(y: currentDragOffsetY) // 拖拉位置
+                .offset(y: OffsetY)
+                .offset(y: currentDragOffsetY)
                 .offset(y: endingOffsetY)
                 .gesture(
                     DragGesture()
                         .onChanged{ value in
                             withAnimation(.spring()){
-                                currentDragOffsetY = value.translation.height // y軸的 拖拉量
+                                currentDragOffsetY = value.translation.height
                             }
                         }
                         .onEnded{ value in
 
                             withAnimation(.spring()){
-                                // y 被拉超過 150  執行
                                 if currentDragOffsetY < -150 {
-                                    endingOffsetY = -OffsetY // 剛好跟初始位置 相對
+                                    endingOffsetY = -OffsetY
 
                                 }
-                                // endingOffsetY != 0 -> 不等於 0 代表BottomView被拉開
-
                                 else if endingOffsetY != 0 && currentDragOffsetY > 150{
                                     endingOffsetY = 0
                                 }
                                 
-                                currentDragOffsetY = 0 // 結束完一個動作 都將Y軸變化量歸 0
+                                currentDragOffsetY = 0
                             }
                         }
                 )
