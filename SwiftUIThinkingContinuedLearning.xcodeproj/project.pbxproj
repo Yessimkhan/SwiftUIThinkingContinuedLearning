@@ -11,6 +11,7 @@
 		5AE293A12B3B06410081299B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE293A02B3B06410081299B /* ContentView.swift */; };
 		5AE293A32B3B06470081299B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AE293A22B3B06470081299B /* Assets.xcassets */; };
 		5AE293A62B3B06470081299B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AE293A52B3B06470081299B /* Preview Assets.xcassets */; };
+		5AE293AD2B3B07030081299B /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE293AC2B3B07030081299B /* LongPressGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5AE293A02B3B06410081299B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5AE293A22B3B06470081299B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5AE293A52B3B06470081299B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5AE293AC2B3B07030081299B /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5AE2939E2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift */,
 				5AE293A02B3B06410081299B /* ContentView.swift */,
+				5AE293AC2B3B07030081299B /* LongPressGestureBootcamp.swift */,
 				5AE293A22B3B06470081299B /* Assets.xcassets */,
 				5AE293A42B3B06470081299B /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				5AE293A12B3B06410081299B /* ContentView.swift in Sources */,
 				5AE2939F2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift in Sources */,
+				5AE293AD2B3B07030081299B /* LongPressGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
