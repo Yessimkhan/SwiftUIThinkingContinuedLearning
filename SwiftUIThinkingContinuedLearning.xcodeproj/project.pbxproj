@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5AA391F72B3B45A1005C1171 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391F62B3B45A1005C1171 /* DragGestureBootcamp.swift */; };
 		5AE2939F2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE2939E2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift */; };
 		5AE293A12B3B06410081299B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE293A02B3B06410081299B /* ContentView.swift */; };
 		5AE293A32B3B06470081299B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AE293A22B3B06470081299B /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5AA391F62B3B45A1005C1171 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		5AE2939B2B3B06410081299B /* SwiftUIThinkingContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIThinkingContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AE2939E2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIThinkingContinuedLearningApp.swift; sourceTree = "<group>"; };
 		5AE293A02B3B06410081299B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				5AE293AC2B3B07030081299B /* LongPressGestureBootcamp.swift */,
 				5AE293AE2B3B0C220081299B /* MagnificationGestureBootcamp.swift */,
 				5AE293B02B3B0CAC0081299B /* RotationGestureBootcamp.swift */,
+				5AA391F62B3B45A1005C1171 /* DragGestureBootcamp.swift */,
 				5AE293A22B3B06470081299B /* Assets.xcassets */,
 				5AE293A42B3B06470081299B /* Preview Content */,
 			);
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5AA391F72B3B45A1005C1171 /* DragGestureBootcamp.swift in Sources */,
 				5AE293A12B3B06410081299B /* ContentView.swift in Sources */,
 				5AE2939F2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift in Sources */,
 				5AE293AF2B3B0C220081299B /* MagnificationGestureBootcamp.swift in Sources */,
