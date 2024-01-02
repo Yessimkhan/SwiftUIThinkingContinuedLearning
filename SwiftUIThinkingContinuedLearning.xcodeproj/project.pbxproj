@@ -11,6 +11,7 @@
 		5AA391F92B3B468E005C1171 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391F82B3B468E005C1171 /* DragGestureBootcamp2.swift */; };
 		5AA391FB2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391FA2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift */; };
 		5AA391FD2B3C08AB005C1171 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391FC2B3C08AB005C1171 /* GeometryReaderBootcamp.swift */; };
+		5AA391FF2B3C503E005C1171 /* MultiplySheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391FE2B3C503E005C1171 /* MultiplySheetsBootcamp.swift */; };
 		5AE2939F2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE2939E2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift */; };
 		5AE293A12B3B06410081299B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE293A02B3B06410081299B /* ContentView.swift */; };
 		5AE293A32B3B06470081299B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AE293A22B3B06470081299B /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 		5AA391F82B3B468E005C1171 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		5AA391FA2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		5AA391FC2B3C08AB005C1171 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
+		5AA391FE2B3C503E005C1171 /* MultiplySheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplySheetsBootcamp.swift; sourceTree = "<group>"; };
 		5AE2939B2B3B06410081299B /* SwiftUIThinkingContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIThinkingContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AE2939E2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIThinkingContinuedLearningApp.swift; sourceTree = "<group>"; };
 		5AE293A02B3B06410081299B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				5AA391F82B3B468E005C1171 /* DragGestureBootcamp2.swift */,
 				5AA391FA2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift */,
 				5AA391FC2B3C08AB005C1171 /* GeometryReaderBootcamp.swift */,
+				5AA391FE2B3C503E005C1171 /* MultiplySheetsBootcamp.swift */,
 				5AE293A22B3B06470081299B /* Assets.xcassets */,
 				5AE293A42B3B06470081299B /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 				5AA391F72B3B45A1005C1171 /* DragGestureBootcamp.swift in Sources */,
 				5AE293A12B3B06410081299B /* ContentView.swift in Sources */,
 				5AA391FB2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift in Sources */,
+				5AA391FF2B3C503E005C1171 /* MultiplySheetsBootcamp.swift in Sources */,
 				5AE2939F2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift in Sources */,
 				5AE293AF2B3B0C220081299B /* MagnificationGestureBootcamp.swift in Sources */,
 				5AA391FD2B3C08AB005C1171 /* GeometryReaderBootcamp.swift in Sources */,
