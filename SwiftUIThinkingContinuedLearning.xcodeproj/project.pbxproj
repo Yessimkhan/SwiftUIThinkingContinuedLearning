@@ -19,6 +19,7 @@
 		5AE293AD2B3B07030081299B /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE293AC2B3B07030081299B /* LongPressGestureBootcamp.swift */; };
 		5AE293AF2B3B0C220081299B /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE293AE2B3B0C220081299B /* MagnificationGestureBootcamp.swift */; };
 		5AE293B12B3B0CAC0081299B /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE293B02B3B0CAC0081299B /* RotationGestureBootcamp.swift */; };
+		5AF349DB2B4436C4000F7AC1 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF349DA2B4436C4000F7AC1 /* MaskBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		5AE293AC2B3B07030081299B /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		5AE293AE2B3B0C220081299B /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 		5AE293B02B3B0CAC0081299B /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
+		5AF349DA2B4436C4000F7AC1 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				5AA391FA2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift */,
 				5AA391FC2B3C08AB005C1171 /* GeometryReaderBootcamp.swift */,
 				5AA391FE2B3C503E005C1171 /* MultiplySheetsBootcamp.swift */,
+				5AF349DA2B4436C4000F7AC1 /* MaskBootcamp.swift */,
 				5AE293A22B3B06470081299B /* Assets.xcassets */,
 				5AE293A42B3B06470081299B /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5AA391F92B3B468E005C1171 /* DragGestureBootcamp2.swift in Sources */,
+				5AF349DB2B4436C4000F7AC1 /* MaskBootcamp.swift in Sources */,
 				5AA391F72B3B45A1005C1171 /* DragGestureBootcamp.swift in Sources */,
 				5AE293A12B3B06410081299B /* ContentView.swift in Sources */,
 				5AA391FB2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift in Sources */,
