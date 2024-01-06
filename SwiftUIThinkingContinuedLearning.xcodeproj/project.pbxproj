@@ -15,6 +15,7 @@
 		5AA391FB2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391FA2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift */; };
 		5AA391FD2B3C08AB005C1171 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391FC2B3C08AB005C1171 /* GeometryReaderBootcamp.swift */; };
 		5AA391FF2B3C503E005C1171 /* MultiplySheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391FE2B3C503E005C1171 /* MultiplySheetsBootcamp.swift */; };
+		5ABB70AD2B49149600D87845 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ABB70AC2B49149600D87845 /* HashableBootcamp.swift */; };
 		5AC3F37E2B47B8200048E104 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AC3F37D2B47B8200048E104 /* HapticsBootcamp.swift */; };
 		5AC3F3802B47C29D0048E104 /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AC3F37F2B47C29D0048E104 /* LocalNotificationBootcamp.swift */; };
 		5AE2939F2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE2939E2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift */; };
@@ -36,6 +37,7 @@
 		5AA391FA2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		5AA391FC2B3C08AB005C1171 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		5AA391FE2B3C503E005C1171 /* MultiplySheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplySheetsBootcamp.swift; sourceTree = "<group>"; };
+		5ABB70AC2B49149600D87845 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 		5AC3F37D2B47B8200048E104 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 		5AC3F37F2B47C29D0048E104 /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
 		5AE2939B2B3B06410081299B /* SwiftUIThinkingContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIThinkingContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -102,6 +104,7 @@
 				5A1FA0742B457ABC0042A45D /* SoundsBootcamp.swift */,
 				5AC3F37D2B47B8200048E104 /* HapticsBootcamp.swift */,
 				5AC3F37F2B47C29D0048E104 /* LocalNotificationBootcamp.swift */,
+				5ABB70AC2B49149600D87845 /* HashableBootcamp.swift */,
 				5A1FA0762B457EDF0042A45D /* Sounds */,
 				5AE293A22B3B06470081299B /* Assets.xcassets */,
 				5AE293A42B3B06470081299B /* Preview Content */,
@@ -189,6 +192,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5ABB70AD2B49149600D87845 /* HashableBootcamp.swift in Sources */,
 				5A1FA0752B457ABC0042A45D /* SoundsBootcamp.swift in Sources */,
 				5AA391F92B3B468E005C1171 /* DragGestureBootcamp2.swift in Sources */,
 				5AF349DB2B4436C4000F7AC1 /* MaskBootcamp.swift in Sources */,
