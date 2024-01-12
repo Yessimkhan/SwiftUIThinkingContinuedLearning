@@ -10,6 +10,7 @@
 		5A1FA0752B457ABC0042A45D /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A1FA0742B457ABC0042A45D /* SoundsBootcamp.swift */; };
 		5A1FA0792B457F5C0042A45D /* success.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5A1FA0772B457F5C0042A45D /* success.mp3 */; };
 		5A1FA07A2B457F5D0042A45D /* sad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5A1FA0782B457F5C0042A45D /* sad.mp3 */; };
+		5A2C91B72B4AFE7A00B6E673 /* ArraysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2C91B62B4AFE7A00B6E673 /* ArraysBootcamp.swift */; };
 		5AA391F72B3B45A1005C1171 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391F62B3B45A1005C1171 /* DragGestureBootcamp.swift */; };
 		5AA391F92B3B468E005C1171 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391F82B3B468E005C1171 /* DragGestureBootcamp2.swift */; };
 		5AA391FB2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391FA2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift */; };
@@ -32,6 +33,7 @@
 		5A1FA0742B457ABC0042A45D /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
 		5A1FA0772B457F5C0042A45D /* success.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = success.mp3; sourceTree = "<group>"; };
 		5A1FA0782B457F5C0042A45D /* sad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sad.mp3; sourceTree = "<group>"; };
+		5A2C91B62B4AFE7A00B6E673 /* ArraysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootcamp.swift; sourceTree = "<group>"; };
 		5AA391F62B3B45A1005C1171 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		5AA391F82B3B468E005C1171 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		5AA391FA2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				5AC3F37D2B47B8200048E104 /* HapticsBootcamp.swift */,
 				5AC3F37F2B47C29D0048E104 /* LocalNotificationBootcamp.swift */,
 				5ABB70AC2B49149600D87845 /* HashableBootcamp.swift */,
+				5A2C91B62B4AFE7A00B6E673 /* ArraysBootcamp.swift */,
 				5A1FA0762B457EDF0042A45D /* Sounds */,
 				5AE293A22B3B06470081299B /* Assets.xcassets */,
 				5AE293A42B3B06470081299B /* Preview Content */,
@@ -198,6 +201,7 @@
 				5AF349DB2B4436C4000F7AC1 /* MaskBootcamp.swift in Sources */,
 				5AA391F72B3B45A1005C1171 /* DragGestureBootcamp.swift in Sources */,
 				5AE293A12B3B06410081299B /* ContentView.swift in Sources */,
+				5A2C91B72B4AFE7A00B6E673 /* ArraysBootcamp.swift in Sources */,
 				5AC3F3802B47C29D0048E104 /* LocalNotificationBootcamp.swift in Sources */,
 				5AA391FB2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift in Sources */,
 				5AA391FF2B3C503E005C1171 /* MultiplySheetsBootcamp.swift in Sources */,
