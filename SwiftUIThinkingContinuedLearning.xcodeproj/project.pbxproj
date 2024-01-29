@@ -15,6 +15,7 @@
 		5A3974902B6525D400765288 /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5A39748E2B6525D400765288 /* FruitsContainer.xcdatamodeld */; };
 		5A3974922B6662A700765288 /* CoreDataRelationshipsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A3974912B6662A600765288 /* CoreDataRelationshipsBootcamp.swift */; };
 		5A3974952B66662100765288 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5A3974932B66662100765288 /* CoreDataContainer.xcdatamodeld */; };
+		5A3974972B6790B700765288 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A3974962B6790B600765288 /* BackgroundThreadBootcamp.swift */; };
 		5AA391F72B3B45A1005C1171 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391F62B3B45A1005C1171 /* DragGestureBootcamp.swift */; };
 		5AA391F92B3B468E005C1171 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391F82B3B468E005C1171 /* DragGestureBootcamp2.swift */; };
 		5AA391FB2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA391FA2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift */; };
@@ -42,6 +43,7 @@
 		5A39748F2B6525D400765288 /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 		5A3974912B6662A600765288 /* CoreDataRelationshipsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBootcamp.swift; sourceTree = "<group>"; };
 		5A3974942B66662100765288 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
+		5A3974962B6790B600765288 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		5AA391F62B3B45A1005C1171 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		5AA391F82B3B468E005C1171 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		5AA391FA2B3B512D005C1171 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				5A39748E2B6525D400765288 /* FruitsContainer.xcdatamodeld */,
 				5A3974912B6662A600765288 /* CoreDataRelationshipsBootcamp.swift */,
 				5A3974932B66662100765288 /* CoreDataContainer.xcdatamodeld */,
+				5A3974962B6790B600765288 /* BackgroundThreadBootcamp.swift */,
 				5A1FA0762B457EDF0042A45D /* Sounds */,
 				5AE293A22B3B06470081299B /* Assets.xcassets */,
 				5AE293A42B3B06470081299B /* Preview Content */,
@@ -210,6 +213,7 @@
 				5A3974902B6525D400765288 /* FruitsContainer.xcdatamodeld in Sources */,
 				5ABB70AD2B49149600D87845 /* HashableBootcamp.swift in Sources */,
 				5A1FA0752B457ABC0042A45D /* SoundsBootcamp.swift in Sources */,
+				5A3974972B6790B700765288 /* BackgroundThreadBootcamp.swift in Sources */,
 				5AA391F92B3B468E005C1171 /* DragGestureBootcamp2.swift in Sources */,
 				5A39748D2B6524D100765288 /* CoreDataBootcamp.swift in Sources */,
 				5AF349DB2B4436C4000F7AC1 /* MaskBootcamp.swift in Sources */,
