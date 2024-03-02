@@ -30,6 +30,7 @@
 		5AC3F37E2B47B8200048E104 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AC3F37D2B47B8200048E104 /* HapticsBootcamp.swift */; };
 		5AC3F3802B47C29D0048E104 /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AC3F37F2B47C29D0048E104 /* LocalNotificationBootcamp.swift */; };
 		5ADCE55C2B6C14C100AB8FB8 /* DownloadWithEscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADCE55B2B6C14C100AB8FB8 /* DownloadWithEscapingBootcamp.swift */; };
+		5ADE7B9F2B932DA50064C7AA /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADE7B9E2B932DA50064C7AA /* TimerBootcamp.swift */; };
 		5AE2939F2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE2939E2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift */; };
 		5AE293A12B3B06410081299B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE293A02B3B06410081299B /* ContentView.swift */; };
 		5AE293A32B3B06470081299B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AE293A22B3B06470081299B /* Assets.xcassets */; };
@@ -64,6 +65,7 @@
 		5AC3F37D2B47B8200048E104 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 		5AC3F37F2B47C29D0048E104 /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
 		5ADCE55B2B6C14C100AB8FB8 /* DownloadWithEscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingBootcamp.swift; sourceTree = "<group>"; };
+		5ADE7B9E2B932DA50064C7AA /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		5AE2939B2B3B06410081299B /* SwiftUIThinkingContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIThinkingContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AE2939E2B3B06410081299B /* SwiftUIThinkingContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIThinkingContinuedLearningApp.swift; sourceTree = "<group>"; };
 		5AE293A02B3B06410081299B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -141,6 +143,7 @@
 				5AADB01F2B6A45D3009D775D /* CodableBootcamp.swift */,
 				5ADCE55B2B6C14C100AB8FB8 /* DownloadWithEscapingBootcamp.swift */,
 				5A7A21642B88C9CE0097B610 /* DownloadWithCombine.swift */,
+				5ADE7B9E2B932DA50064C7AA /* TimerBootcamp.swift */,
 				5A1FA0762B457EDF0042A45D /* Sounds */,
 				5AE293A22B3B06470081299B /* Assets.xcassets */,
 				5AE293A42B3B06470081299B /* Preview Content */,
@@ -252,6 +255,7 @@
 				5AE293AF2B3B0C220081299B /* MagnificationGestureBootcamp.swift in Sources */,
 				5AC3F37E2B47B8200048E104 /* HapticsBootcamp.swift in Sources */,
 				5AA391FD2B3C08AB005C1171 /* GeometryReaderBootcamp.swift in Sources */,
+				5ADE7B9F2B932DA50064C7AA /* TimerBootcamp.swift in Sources */,
 				5A3974922B6662A700765288 /* CoreDataRelationshipsBootcamp.swift in Sources */,
 				5AE293AD2B3B07030081299B /* LongPressGestureBootcamp.swift in Sources */,
 				5AE293B12B3B0CAC0081299B /* RotationGestureBootcamp.swift in Sources */,
